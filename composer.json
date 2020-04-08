@@ -1,7 +1,7 @@
 {
 	"name": "mvccore/ext-control",
 	"type": "library",
-	"description": "MvcCore Extension - Control - extension to create, dispatch and render from base class \\MvcCore\\Ext\\Control any web controls, widgets and navigations.",
+	"description": "MvcCore - Extension - Control - extension to create, dispatch and render from base class \\MvcCore\\Ext\\Control any web controls, widgets and navigations.",
 	"keywords": [
 		"mvc", 
 		"mvccore", 
